@@ -1,0 +1,15 @@
+node_modules/
+venv/
+.env
+__pycache__/
+dist/
+build/
+data/
+datasets/
+models/
+*.pkl
+*.h5
+*.pt
+*.zip
+*.csv
+*.exe
